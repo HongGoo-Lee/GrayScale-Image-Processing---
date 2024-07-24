@@ -1,4 +1,4 @@
-# GrayScale Image Processing (GA2) - 미니 프로젝트
+# C언어 기반 GrayScale Image Proccessing 프로그램 - 미니 프로젝트
 
 ## 소개
 
